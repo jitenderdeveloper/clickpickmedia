@@ -1,0 +1,14 @@
+.header-4-logo{
+    width: 65px;
+}
+.brand-grid .brand-item{
+    height: 20vh;
+}
+.brand-grid .brand-item img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.feature_service{
+    padding-top: 0px !important;
+}
