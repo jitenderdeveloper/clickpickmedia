@@ -40,7 +40,7 @@
 
         // FIXME: Update this to your desired email address.
 
-        $recipient = "contact@codeaptor.com"
+        $recipient = "contact@Clickpickmedia.com"
 
 
         // Set the email of sender.

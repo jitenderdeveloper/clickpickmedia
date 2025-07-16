@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://codeaptor.com/sitemap.xml
+Sitemap: https://Clickpickmedia.com/sitemap.xml

@@ -1,14 +1,14 @@
 @font-face {
-    font-family: "flaticon_CodeAptor";
-    src: url("../fonts/flaticon_CodeAptor.ttf?af1b53e90009168e14def3a8ddb99edb") format("truetype"),
-url("../fonts/flaticon_CodeAptor.woff?af1b53e90009168e14def3a8ddb99edb") format("woff"),
-url("../fonts/flaticon_CodeAptor.woff2?af1b53e90009168e14def3a8ddb99edb") format("woff2"),
-url("../fonts/flaticon_CodeAptor.eot?af1b53e90009168e14def3a8ddb99edb#iefix") format("embedded-opentype"),
-url("../fonts/flaticon_CodeAptor.svg?af1b53e90009168e14def3a8ddb99edb#flaticon_CodeAptor") format("svg");
+    font-family: "flaticon_Clickpickmedia";
+    src: url("../fonts/flaticon_Clickpickmedia.ttf?af1b53e90009168e14def3a8ddb99edb") format("truetype"),
+url("../fonts/flaticon_Clickpickmedia.woff?af1b53e90009168e14def3a8ddb99edb") format("woff"),
+url("../fonts/flaticon_Clickpickmedia.woff2?af1b53e90009168e14def3a8ddb99edb") format("woff2"),
+url("../fonts/flaticon_Clickpickmedia.eot?af1b53e90009168e14def3a8ddb99edb#iefix") format("embedded-opentype"),
+url("../fonts/flaticon_Clickpickmedia.svg?af1b53e90009168e14def3a8ddb99edb#flaticon_Clickpickmedia") format("svg");
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
-    font-family: flaticon_CodeAptor !important;
+    font-family: flaticon_Clickpickmedia !important;
     font-style: normal;
     font-weight: normal !important;
     font-variant: normal;

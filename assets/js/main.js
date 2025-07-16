@@ -971,20 +971,20 @@
 	38. Button Movein Animation JS
 	========================================*/
 
-	const CodeAptor_all_btns = gsap.utils.toArray(".btn_wrapper");
-	if (CodeAptor_all_btns.length > 0) {
-		var CodeAptor_all_btn = gsap.utils.toArray(".btn_wrapper");
+	const Clickpickmedia_all_btns = gsap.utils.toArray(".btn_wrapper");
+	if (Clickpickmedia_all_btns.length > 0) {
+		var Clickpickmedia_all_btn = gsap.utils.toArray(".btn_wrapper");
 	}
 	else {
-		var CodeAptor_all_btn = gsap.utils.toArray("#btn_wrapper");
+		var Clickpickmedia_all_btn = gsap.utils.toArray("#btn_wrapper");
 	}
-	const CodeAptor_all_btn_cirlce = gsap.utils.toArray(".btn-moving");
-	CodeAptor_all_btn.forEach((btn, i) => {
+	const Clickpickmedia_all_btn_cirlce = gsap.utils.toArray(".btn-moving");
+	Clickpickmedia_all_btn.forEach((btn, i) => {
 		$(btn).mousemove(function (e) {
 			callParallax(e);
 		});
 		function callParallax(e) {
-			parallaxIt(e, CodeAptor_all_btn_cirlce[i], 80);
+			parallaxIt(e, Clickpickmedia_all_btn_cirlce[i], 80);
 		}
 
 		function parallaxIt(e, target, movement) {
@@ -999,7 +999,7 @@
 			});
 		}
 		$(btn).mouseleave(function (e) {
-			gsap.to(CodeAptor_all_btn_cirlce[i], 0.5, {
+			gsap.to(Clickpickmedia_all_btn_cirlce[i], 0.5, {
 				x: 0,
 				y: 0,
 				ease: Power2.easeOut,
