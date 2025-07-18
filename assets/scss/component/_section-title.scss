@@ -161,7 +161,7 @@
                 &.section__title-wrapper-discuss {
 
                     .section__title-main {
-                        color: #1db7d1;
+                        color: #f26323;
                     }
                 }
 
@@ -246,7 +246,7 @@
     &.is-gradient {
         .section__title-main {
             >* {
-                background-image: linear-gradient(91.13deg, #1db7d1 2.19%, #4A79F2 99.94%);
+                background-image: linear-gradient(91.13deg, #f26323 2.19%, #e35919 99.94%);
                 -webkit-background-clip: text;
                 -webkit-text-fill-color: transparent;
                 background-clip: text;
@@ -408,8 +408,8 @@
 }
 
 .title-green {
-    color: #1db7d1;
-    border-bottom: 3px solid #1db7d1;
+    color: #f26323;
+    border-bottom: 3px solid #f26323;
 }
 
 

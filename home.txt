@@ -62,7 +62,7 @@
       <div class="sidebar-menu-area">
         <ul class="menu-list">
           <li class="menu-item-has-children menu-item">
-            <a href="index.html" class="drop-down" data-hover="Home"> Home</a>
+            <a href="#" class="drop-down" data-hover="Home"> Home</a>
           </li>
           <li class="menu-item-has-children menu-item">
             <a href="about.html" class="drop-down" data-hover="About">
@@ -74,11 +74,11 @@
           </li>
           <!-- <li class="menu-item-has-children menu-item">
             <a href="team.html" data-hover="Our Team">Our Team</a>
-          </li> -->
+          </li> !-->
 
-          <!-- <li class="menu-item-has-children menu-item">
+          <li class="menu-item-has-children menu-item">
             <a href="blog.html" data-hover="Blog">Blog</a>
-          </li> -->
+          </li>
 
           <li class="menu-item-has-children menu-item">
             <a href="contact.html" class="drop-down" data-hover="Contact">
@@ -175,9 +175,9 @@
                     <div class="service-content-3">
                       <div class="service-e-content-inner">
                         <div class="service-m-image">
-                          <!-- <a href="#"> -->
-                            <img src="assets/img/projects/21.png" alt="image not found" />
-                          <!-- </a> -->
+                          <a href="#">
+                            <img src="assets/img/projects/24.jpg" alt="image not found" />
+                          </a>
                         </div>
                       </div>
                     </div>
@@ -192,9 +192,9 @@
                     <div class="service-content-3">
                       <div class="service-e-content-inner">
                         <div class="service-m-image">
-                          <!-- <a href="#"> -->
+                          <a href="#">
                             <img src="assets/img/projects/22.jpg" alt="image not found" />
-                          <!-- </a> -->
+                          </a>
                         </div>
                       </div>
                     </div>
@@ -203,15 +203,15 @@
                 <div class="service-m-tab">
                   <div class="service-m-tab-wrapper">
                     <div class="service-m-title">
-                      <span class="service-m-title-vertical">Performance Marketing</span>
+                      <span class="service-m-title-vertical"> Performance Marketing</span>
                       <h6 class="service-m-count">03</h6>
                     </div>
                     <div class="service-content-3">
                       <div class="service-e-content-inner">
                         <div class="service-m-image">
-                          <!-- <a href="services-details.html"> -->
+                          <a href="services-details.html">
                             <img src="assets/img/projects/23.jpg" alt="image not found" />
-                          <!-- </a> -->
+                          </a>
                         </div>
                       </div>
                     </div>
@@ -226,9 +226,9 @@
                     <div class="service-content-3">
                       <div class="service-e-content-inner">
                         <div class="service-m-image">
-                          <!-- <a href="services-details.html"> -->
+                          <a href="services-details.html">
                             <img src="assets/img/projects/26.png" alt="image not found" />
-                          <!-- </a> -->
+                          </a>
                         </div>
                       </div>
                     </div>
@@ -237,15 +237,15 @@
                 <div class="service-m-tab">
                   <div class="service-m-tab-wrapper">
                     <div class="service-m-title">
-                      <span class="service-m-title-vertical">Influencer Marketing</span>
+                      <span class="service-m-title-vertical">Performace Marketing</span>
                       <h6 class="service-m-count">05</h6>
                     </div>
                     <div class="service-content-3">
                       <div class="service-e-content-inner">
                         <div class="service-m-image">
-                          <!-- <a href="services-details.html"> -->
-                            <img src="assets/img/projects/27.png" alt="image not found" />
-                          <!-- </a> -->
+                          <a href="services-details.html">
+                            <img src="assets/img/projects/25.jpg" alt="image not found" />
+                          </a>
                         </div>
                       </div>
                     </div>
@@ -333,9 +333,16 @@
                 <div class="features-content">
                   <div class="features-description">
                     <p>
+                      <!-- ClickPick Media is a strategic digital marketing agency dedicated to delivering performance-driven
+                      solutions for modern businesses. We partner with brands to accelerate growth through intelligent
+                      SEO, targeted advertising, and integrated digital campaigns. Our focus is on measurable outcomes,
+                      data-backed strategies, and long-term brand success in a constantly evolving digital landscape. -->
+
+                      <!-- ClickPick Media builds digital ecosystems where strategy meets substance. We don’t just market — we engineer attention, guide intent, and turn clicks into credibility. Every brand we work with gets a blueprint built on data, clarity, and bold creative — designed not just to compete, but to lead.  -->
                       ClickPick Media helps businesses stand out, get found, and grow fast in a crowded digital world.
                       We combine clear strategy, compelling content, and smart marketing to turn online visibility into
                       real business results. No gimmicks — just focused execution that moves your brand forward.
+                    </p>
                     </p>
                   </div>
                   <div class="btn_wrapper">
@@ -369,8 +376,8 @@
               <div class="col-xxl-12">
                 <div class="section__title-wrapper is-white tpl__item-center">
                   <h2 class="section__title-main large uppercase title-anim">
-                    Our
-                    <span class="section__right-title title-anim">Clients</span>
+                    top companies
+                    <span class="section__right-title title-anim">use Clickpickmedia</span>
                   </h2>
                 </div>
               </div>
@@ -379,7 +386,7 @@
               <div class="col-12">
                 <div class="brand-grid mb-75">
                   <div class="brand-item">
-                    <img src="assets/img/brand/1.jpeg" alt="image not found" />
+                    <img src="assets/img/brand/1.jpeg " alt="image not found" />
                   </div>
                   <div class="brand-item">
                     <img src="assets/img/brand/2.png" alt="image not found" />
@@ -403,7 +410,7 @@
                     <img src="assets/img/brand/8.jpeg" alt="image not found" />
                   </div>
                   <div class="brand-item">
-                    <img src="assets/img/brand/9.png" alt="image not found" />
+                    <img src="assets/img/brand/9.jpeg" alt="image not found" />
                   </div>
                   <div class="brand-item">
                     <img src="assets/img/brand/10.svg" alt="image not found" />
@@ -454,7 +461,7 @@
                           </div>
                           <div class="testimonial-author">
                             <h4>Lily Anderson</h4>
-                            <p>Director, Andiworld</p>
+                            <!-- <p>Director, Andiworld</p> -->
                           </div>
                         </div>
                       </div>
@@ -481,8 +488,8 @@
                             </p>
                           </div>
                           <div class="testimonial-author">
-                            <h4>Dio Caprio</h4>
-                            <p>Director, Andiworld</p>
+                            <h4>Sneha Gupta</h4>
+                            <!-- <p>Director, Andiworld</p> -->
                           </div>
                         </div>
                       </div>
@@ -509,8 +516,8 @@
                             </p>
                           </div>
                           <div class="testimonial-author">
-                            <h4>David Hanson</h4>
-                            <p>Director, Andiworld</p>
+                            <h4>Priya N.</h4>
+                            <!-- <p>Director, Andiworld</p> -->
                           </div>
                         </div>
                       </div>
@@ -552,19 +559,19 @@
             <div class="project__works-inner">
               <div class="projects-wrapper__border"></div>
               <div class="row g-0">
-                <div class="col-lg-12">
+                <div class="col-lg-8">
                   <div class="projects-wrapper">
                     <div class="project-box">
                       <div class="project-box__thumb order-sm-1">
                         <div class="animate-image">
-                          <a href="https://casheoo.com/"><img class="topylo-tilt" src="assets/img/projects/project-6.png"
+                          <a href="case-details.html"><img class="topylo-tilt" src="assets/img/projects/project-6.png"
                               alt="image not found" /></a>
                         </div>
                       </div>
                       <div class="project-box-content order-sm-0">
                         <div class="bdFadeLeft">
                           <h4 class="project__title">
-                            <a href="https://casheoo.com/">Casheoo
+                            <a href="case-details.html">Casheoo
                               <span class="icon-box"><i class="flaticon-next"></i></span></a>
                           </h4>
                           <p>
@@ -591,14 +598,14 @@
                     <div class="project-box">
                       <div class="project-box__thumb order-sm-1">
                         <div class="animate-image">
-                          <a href="https://www.theblozee.com/"><img class="topylo-tilt" src="assets/img/projects/project-5.png"
+                          <a href="case-details.html"><img class="topylo-tilt" src="assets/img/projects/project-5.png"
                               alt="image not found" /></a>
                         </div>
                       </div>
                       <div class="project-box-content order-sm-0">
                         <div class="bdFadeRight">
                           <h4 class="project__title">
-                            <a href="https://www.theblozee.com/">The Blozee<span class="icon-box"><i
+                            <a href="case-details.html">The blozee<span class="icon-box"><i
                                   class="flaticon-next"></i></span></a>
                           </h4>
                           <p>
@@ -623,98 +630,76 @@
                       </div>
                     </div>
                     <!-- <div class="project-box">
-                        <div class="project-box__thumb order-sm-1">
-                          <div class="animate-image">
-                            <a href="case-details.html"
-                              ><img
-                                class="topylo-tilt"
-                                src="assets/img/projects/project-7.jpg"
-                                alt="image not found"
-                            /></a>
-                          </div>
+                      <div class="project-box__thumb order-sm-1">
+                        <div class="animate-image">
+                          <a href="case-details.html"><img class="topylo-tilt" src="assets/img/projects/project-7.jpg"
+                              alt="image not found" /></a>
                         </div>
-                        <div class="project-box-content order-sm-0">
-                          <div class="bdFadeLeft">
-                            <h4 class="project__title">
-                              <a href="case-details.html"
-                                >Creative Illustration Software
-                                <span class="icon-box"
-                                  ><i class="flaticon-next"></i></span
-                              ></a>
-                            </h4>
-                            <p>
-                              Lift is a full-service, award-winning digital
-                              agency with expertise in brand & digital strategy,
-                              design, and user experience
-                            </p>
-                            <div class="awards-list-box">
-                              <p>Awards From:</p>
-                              <div class="awards-list">
-                                <ul>
-                                  <li>Awwwards</li>
-                                  <li>RED it</li>
-                                  <li>FWA</li>
-                                </ul>
-                              </div>
+                      </div>
+                      <div class="project-box-content order-sm-0">
+                        <div class="bdFadeLeft">
+                          <h4 class="project__title">
+                            <a href="case-details.html">Creative Illustration Software
+                              <span class="icon-box"><i class="flaticon-next"></i></span></a>
+                          </h4>
+                          <p>
+                            Lift is a full-service, award-winning digital
+                            agency with expertise in brand & digital strategy,
+                            design, and user experience
+                          </p>
+                          <div class="awards-list-box">
+                            <p>Awards From:</p>
+                            <div class="awards-list">
+                              <ul>
+                                <li>Awwwards</li>
+                                <li>RED it</li>
+                                <li>FWA</li>
+                              </ul>
                             </div>
-                            <div class="project-box__btn">
-                              <a
-                                href="case-details.html"
-                                class="text-btn btn-text"
-                                >View Website</a
-                              >
-                            </div>
+                          </div>
+                          <div class="project-box__btn">
+                            <a href="case-details.html" class="text-btn btn-text">View Website</a>
                           </div>
                         </div>
                       </div>
-                      <div class="project-box">
-                        <div class="project-box__thumb order-sm-1">
-                          <div class="animate-image">
-                            <a href="case-details.html"
-                              ><img
-                                class="topylo-tilt"
-                                src="assets/img/projects/project-8.jpg"
-                                alt="image not found"
-                            /></a>
-                          </div>
+                    </div> -->
+                    <!-- <div class="project-box">
+                      <div class="project-box__thumb order-sm-1">
+                        <div class="animate-image">
+                          <a href="case-details.html"><img class="topylo-tilt" src="assets/img/projects/project-8.jpg"
+                              alt="image not found" /></a>
                         </div>
-                        <div class="project-box-content">
-                          <div class="bdFadeRight order-sm-0">
-                            <h4 class="project__title">
-                              <a href="case-details.html"
-                                >Digital Marketing Platform
-                                <span class="icon-box"
-                                  ><i class="flaticon-next"></i></span
-                              ></a>
-                            </h4>
-                            <p>
-                              Lift is a full-service, award-winning digital
-                              agency with expertise in brand & digital strategy,
-                              design, and user experience
-                            </p>
-                            <div class="awards-list-box">
-                              <p>Awards From:</p>
-                              <div class="awards-list">
-                                <ul>
-                                  <li>Awwwards</li>
-                                  <li>RED it</li>
-                                  <li>FWA</li>
-                                </ul>
-                              </div>
-                            </div>
-                            <div class="project-box__btn">
-                              <a
-                                href="case-details.html"
-                                class="text-btn btn-text"
-                                >View Website</a
-                              >
+                      </div>
+                      <div class="project-box-content">
+                        <div class="bdFadeRight order-sm-0">
+                          <h4 class="project__title">
+                            <a href="case-details.html">Digital Marketing Platform
+                              <span class="icon-box"><i class="flaticon-next"></i></span></a>
+                          </h4>
+                          <p>
+                            Lift is a full-service, award-winning digital
+                            agency with expertise in brand & digital strategy,
+                            design, and user experience
+                          </p>
+                          <div class="awards-list-box">
+                            <p>Awards From:</p>
+                            <div class="awards-list">
+                              <ul>
+                                <li>Awwwards</li>
+                                <li>RED it</li>
+                                <li>FWA</li>
+                              </ul>
                             </div>
                           </div>
+                          <div class="project-box__btn">
+                            <a href="case-details.html" class="text-btn btn-text">View Website</a>
+                          </div>
                         </div>
-                      </div> -->
+                      </div>
+                    </div> -->
                   </div>
                 </div>
-                <!-- <div class="col-lg-4 bd-position-sticky">
+                <div class="col-lg-4 bd-position-sticky">
                   <div class="column two">
                     <div class="projects-all-view-btn btn_wrapper p-relative">
                       <a class="c-button btn-moving" href="case-study-01.html">
@@ -725,7 +710,7 @@
                   </div>
                   <div class="rot-line"></div>
                   <div class="b-right"></div>
-                </div> -->
+                </div>
               </div>
             </div>
           </div>
@@ -797,7 +782,7 @@
                 <div class="cover-tab">
                   <ul class="nav nav-tabs" id="myTab" role="tablist">
                     <li class="nav-item" role="presentation">
-                      <button class="nav-link active" id="cover1-tab" data-bs-toggle="tab"
+                      <button class="nav-link active" id="cover-1-tab" data-bs-toggle="tab"
                         data-bs-target="#cover1-tab-pane" type="button" role="tab" aria-controls="cover1-tab-pane"
                         aria-selected="true">
                         Fintech <i class="flaticon-next"></i>
@@ -842,7 +827,7 @@
                     <li class="nav-item" role="presentation">
                       <button class="nav-link" id="cover-8-tab" data-bs-toggle="tab" data-bs-target="#cover-8-tab-pane"
                         type="button" role="tab" aria-controls="cover-8-tab-pane" aria-selected="false">
-                        Affiliate <i class="flaticon-next"></i>
+                        Data Mining <i class="flaticon-next"></i>
                       </button>
                     </li>
                   </ul>
@@ -861,12 +846,14 @@
                           <div class="cover-card-content">
                             <h3>Fintech Platform</h3>
                             <p>
-                              From digital payment solutions to financial app ecosystems, we help fintech brands craft
-                              secure, scalable, and conversion-driven digital experiences that build trust and drive
-                              user engagement in a rapidly evolving market.
+                              Creating Top-quality Solutions for Any
+                              Healthcare Industry Field. Lift is a
+                              full-service, award-winning digital agency with
+                              expertise in brand & digital strategy, design,
+                              and user experience
                             </p>
-                            <!-- <a class="text-btn btn-text" href="services-details.html">Read More<i
-                                class="fa-light fa-arrow-up-right"></i></a> -->
+                            <a class="text-btn btn-text" href="services-details.html">Read More<i
+                                class="fa-light fa-arrow-up-right"></i></a>
                           </div>
                         </div>
                       </div>
@@ -881,12 +868,14 @@
                           <div class="cover-card-content">
                             <h3>Healthcare Platform</h3>
                             <p>
-                              We empower healthcare providers, platforms, and wellness brands with compliant digital
-                              strategies, patient-centric UI/UX, and performance-focused campaigns to improve outreach,
-                              trust, and care delivery.
+                              Creating Top-quality Solutions for Any
+                              Healthcare Industry Field. Lift is a
+                              full-service, award-winning digital agency with
+                              expertise in brand & digital strategy, design,
+                              and user experience
                             </p>
-                            <!-- <a class="text-btn btn-text" href="services-details.html">Read More<i
-                                class="fa-light fa-arrow-up-right"></i></a> -->
+                            <a class="text-btn btn-text" href="services-details.html">Read More<i
+                                class="fa-light fa-arrow-up-right"></i></a>
                           </div>
                         </div>
                       </div>
@@ -899,14 +888,16 @@
                         </div>
                         <div class="cover-card-inner">
                           <div class="cover-card-content">
-                            <h3>Media & Advertising Platform</h3>
+                            <h3>Medita & Advertising Platform</h3>
                             <p>
-                              From branding to digital storytelling, we support media houses and ad networks with
-                              dynamic marketing strategies, cross-platform content, and high-engagement campaigns that
-                              amplify visibility and impact.
+                              Creating Top-quality Solutions for Any
+                              Healthcare Industry Field. Lift is a
+                              full-service, award-winning digital agency with
+                              expertise in brand & digital strategy, design,
+                              and user experience
                             </p>
-                            <!-- <a class="text-btn btn-text" href="services-details.html">Read More<i
-                                class="fa-light fa-arrow-up-right"></i></a> -->
+                            <a class="text-btn btn-text" href="services-details.html">Read More<i
+                                class="fa-light fa-arrow-up-right"></i></a>
                           </div>
                         </div>
                       </div>
@@ -921,12 +912,14 @@
                           <div class="cover-card-content">
                             <h3>Retail</h3>
                             <p>
-                              We partner with retail businesses—both online and offline—to enhance product visibility,
-                              drive sales, optimize user journeys, and build customer loyalty through data-driven
-                              marketing and e-commerce enablement.
+                              Creating Top-quality Solutions for Any
+                              Healthcare Industry Field. Lift is a
+                              full-service, award-winning digital agency with
+                              expertise in brand & digital strategy, design,
+                              and user experience
                             </p>
-                            <!-- <a class="text-btn btn-text" href="services-details.html">Read More<i
-                                class="fa-light fa-arrow-up-right"></i></a> -->
+                            <a class="text-btn btn-text" href="services-details.html">Read More<i
+                                class="fa-light fa-arrow-up-right"></i></a>
                           </div>
                         </div>
                       </div>
@@ -941,12 +934,14 @@
                           <div class="cover-card-content">
                             <h3>Education Platform</h3>
                             <p>
-                              Helping ed-tech startups and institutions build student-centric platforms, impactful
-                              branding, and high-retention campaigns to attract learners, educators, and global
-                              partnerships alike.
+                              Creating Top-quality Solutions for Any
+                              Healthcare Industry Field. Lift is a
+                              full-service, award-winning digital agency with
+                              expertise in brand & digital strategy, design,
+                              and user experience
                             </p>
-                            <!-- <a class="text-btn btn-text" href="services-details.html">Read More<i
-                                class="fa-light fa-arrow-up-right"></i></a> -->
+                            <a class="text-btn btn-text" href="services-details.html">Read More<i
+                                class="fa-light fa-arrow-up-right"></i></a>
                           </div>
                         </div>
                       </div>
@@ -961,12 +956,14 @@
                           <div class="cover-card-content">
                             <h3>Enterprise Software</h3>
                             <p>
-                              We work with SaaS, ERP, and B2B platforms to craft high-converting websites,
-                              precision-targeted ad strategies, and brand narratives that convey value and trust to
-                              decision-makers.
+                              Creating Top-quality Solutions for Any
+                              Healthcare Industry Field. Lift is a
+                              full-service, award-winning digital agency with
+                              expertise in brand & digital strategy, design,
+                              and user experience
                             </p>
-                            <!-- <a class="text-btn btn-text" href="services-details.html">Read More<i
-                                class="fa-light fa-arrow-up-right"></i></a> -->
+                            <a class="text-btn btn-text" href="services-details.html">Read More<i
+                                class="fa-light fa-arrow-up-right"></i></a>
                           </div>
                         </div>
                       </div>
@@ -981,12 +978,14 @@
                           <div class="cover-card-content">
                             <h3>Travel & Transportation</h3>
                             <p>
-                              We create immersive digital journeys for travel agencies, OTAs, and mobility
-                              services—driving bookings, user retention, and brand recognition through digital campaigns
-                              and seamless UI/UX.
+                              Creating Top-quality Solutions for Any
+                              Healthcare Industry Field. Lift is a
+                              full-service, award-winning digital agency with
+                              expertise in brand & digital strategy, design,
+                              and user experience
                             </p>
-                            <!-- <a class="text-btn btn-text" href="services-details.html">Read More<i
-                                class="fa-light fa-arrow-up-right"></i></a> -->
+                            <a class="text-btn btn-text" href="services-details.html">Read More<i
+                                class="fa-light fa-arrow-up-right"></i></a>
                           </div>
                         </div>
                       </div>
@@ -999,12 +998,16 @@
                         </div>
                         <div class="cover-card-inner">
                           <div class="cover-card-content">
-                            <h3>Affiliate</h3>
+                            <h3>Data Mining & Processing</h3>
                             <p>
-                            We empower affiliate marketers and networks with high-performing campaigns, seamless tracking integrations, and conversion-focused assets designed to maximize ROI across various verticals and platforms.
+                              Creating Top-quality Solutions for Any
+                              Healthcare Industry Field. Lift is a
+                              full-service, award-winning digital agency with
+                              expertise in brand & digital strategy, design,
+                              and user experience
                             </p>
-                            <!-- <a class="text-btn btn-text" href="#">Read More<i
-                                class="fa-light fa-arrow-up-right"></i></a> -->
+                            <a class="text-btn btn-text" href="#">Read More<i
+                                class="fa-light fa-arrow-up-right"></i></a>
                           </div>
                         </div>
                       </div>
@@ -1207,114 +1210,6 @@
         </div>
         <!-- cover small device area end -->
 
-        <!-- blog area start  -->
-        <!-- <section class="blogpost-area-3 fix section-spacing p-relative">
-            <div class="blogpost-area-3__bg area-absolute"></div>
-            <div class="container">
-              <div class="row g-5 mb-65">
-                <div class="col-xxl-6 col-xl-6 col-lg-6">
-                  <div class="section__title-wrapper is-white">
-                    <h2 class="section__title-main large uppercase title-anim">
-                      Latest insight from blog
-                    </h2>
-                  </div>
-                </div>
-                <div class="col-xxl-6 col-xl-6 col-lg-6">
-                  <div
-                    class="blogpost-slider-button btn_wrapper d-flex justify-content-lg-end"
-                  >
-                    <a class="c-button is-white btn-moving" href="#">
-                      <span class="c-button__border"></span>
-                      <span class="c-button__text">View All Services</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div class="blogpost-wrapper-3">
-                <div class="swiper-container blogpost-slider overflow-visible">
-                  <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                      <div class="blogpost-box-3">
-                        <a href="blog.html" class="tag">News</a>
-                        <div class="blogpost-box-3__thumb-content-wrapper">
-                          <div class="blogpost-box-3__content">
-                            <h4 class="blogpost-title">
-                              <a href="blog-details.html"
-                                >Data Integration & Identity solu for the Human
-                                Normanti</a
-                              >
-                            </h4>
-                          </div>
-                          <div class="blogpost-box-3__thumb">
-                            <a href="blog-details.html"
-                              ><img
-                                src="assets/img/blog/blog-2.jpg"
-                                alt="image not found"
-                            /></a>
-                          </div>
-                        </div>
-                        <div class="blogpost-date">
-                          <span>02</span> July 2023
-                        </div>
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="blogpost-box-3">
-                        <a href="blog.html" class="tag">News</a>
-                        <div class="blogpost-box-3__thumb-content-wrapper">
-                          <div class="blogpost-box-3__content">
-                            <h4 class="blogpost-title">
-                              <a href="blog-details.html"
-                                >Tincidunt ipsum venenatis urna enim vulputate
-                                vitae aenean</a
-                              >
-                            </h4>
-                          </div>
-                          <div class="blogpost-box-3__thumb">
-                            <a href="blog-details.html"
-                              ><img
-                                src="assets/img/blog/blog-3.jpg"
-                                alt="image not found"
-                            /></a>
-                          </div>
-                        </div>
-                        <div class="blogpost-date">
-                          <span>05</span> July 2023
-                        </div>
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="blogpost-box-3">
-                        <a href="blog.html" class="tag">News</a>
-                        <div class="blogpost-box-3__thumb-content-wrapper">
-                          <div class="blogpost-box-3__content">
-                            <h4 class="blogpost-title">
-                              <a href="blog-details.html"
-                                >magna condimentum non adipiscing. Neque nullam
-                                tortor
-                              </a>
-                            </h4>
-                          </div>
-                          <div class="blogpost-box-3__thumb">
-                            <a href="blog-details.html"
-                              ><img
-                                src="assets/img/blog/blog-4.jpg"
-                                alt="image not found"
-                            /></a>
-                          </div>
-                        </div>
-                        <div class="blogpost-date">
-                          <span>07</span> July 2023
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </section> -->
-        <!-- blog area end  -->
-
         <!-- discuss area start  -->
         <section class="discuss-area section-spacing p-relative">
           <div class="discuss-area__bg area-absolute" data-background="assets/img/gallery/gallery-8.jpg">
@@ -1402,8 +1297,9 @@
                           <div class="footer-info-item">
                             <div class="footer-info">
                               <span>Meet us</span>
-                              <p>1st Floor, Orchid Business Park | ALTF Gurgaon Sector 48,
-                                Gurugram, Haryana</p>
+                              <p>1st Floor, Orchid Business Park | Coworking Space in Sohna Road, Gurgaon Sector 48,
+                                Gurugram, Haryana
+                              </p>
                             </div>
                           </div>
                         </div>
@@ -1472,6 +1368,7 @@
   <script src="assets/js/gsap.min.js"></script>
   <script src="assets/js/vanilla-tilt.js"></script>
   <script src="assets/js/main.js"></script>
+
 </body>
 
 </html>
