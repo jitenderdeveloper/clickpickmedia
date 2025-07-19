@@ -4670,6 +4670,11 @@ Hero-6 Animation
 .sidebar-social {
   margin-top: auto;
 }
+.sidebar-social img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
 
 .marquee__area {
   background: #FFC444;

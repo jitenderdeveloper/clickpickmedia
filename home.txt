@@ -1309,9 +1309,9 @@
                           <div class="footer-social-5">
                             <span class="footer-social-title">Let’s be friend</span>
                             <div class="footer-links">
-                              <a href="https://www.facebook.com/Clickpickmedia" target="_blank">Facebook</a>
+                              <a href="https://www.facebook.com/profile.php?id=61577787727019" target="_blank">Facebook</a>
 
-                              <a href="https://www.instagram.com/Clickpickmedia" target="_blank">Instagram</a>
+                              <a href="https://www.instagram.com/clickpickmedia?igsh=MTh6emZmY2ZpaTVk" target="_blank">Instagram</a>
                             </div>
                           </div>
                         </div>
