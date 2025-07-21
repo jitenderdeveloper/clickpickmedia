@@ -10310,6 +10310,8 @@ body {
   }
 }
 
+
+
 @media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
   .topylo-fullscreen-tabs .service-m-title-vertical {
     transform: none;
@@ -10323,6 +10325,7 @@ body {
     bottom: 0;
     left: 0;
     padding-left: 45px;
+    font-size: 22px !important;
   }
 }
 
@@ -18809,6 +18812,7 @@ label {
 .footer-info-wrapper {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 575px) {
@@ -18822,6 +18826,7 @@ label {
     grid-template-columns: repeat(1, 1fr);
     place-items: center;
     text-align: center;
+    gap: 6px;
   }
 }
 
@@ -18874,10 +18879,17 @@ label {
   display: inline-block;
 }
 
-.footer-social-widget {
+/* .footer-social-widget {
   padding-left: 70px;
   display: flex;
   justify-content: left;
+} */
+ .footer-social-widget {
+  padding-left: 0; /* remove left push */
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }
 
 @media only screen and (min-width: 1400px) and (max-width: 1600px) {
