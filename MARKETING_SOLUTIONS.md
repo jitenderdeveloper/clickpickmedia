@@ -1,198 +1,209 @@
-# 📈 Marketing Services & Performance Strategy Portfolio
+# 📈 ClickPick Media – Marketing Solutions & Performance Strategy
 
-We deliver **result-driven, data-focused, and scalable marketing solutions**
-that help brands grow visibility, generate quality leads, and increase revenue.
+At **ClickPick Media Pvt. Ltd.**, we deliver **performance-driven, data-focused,
+and scalable marketing solutions** that help brands grow visibility,
+generate high-quality leads, and increase revenue.
 
-Our services are built for **Startups, SMEs, and Enterprises** with a strong
-focus on **performance, ROI, and long-term growth**.
+We work with **Startups, SMEs, and Enterprises**, focusing on  
+**ROI, measurable performance, and long-term brand growth**.
 
 ---
 
-## 🧩 Marketing Services Overview
+## 🧩 Our Marketing Services Overview
 
-| Category | Focus | Outcome |
-|--------|------|---------|
-| SEO | Organic visibility | Long-term traffic |
-| Performance Marketing | ROI-driven campaigns | Sales & leads |
-| Paid Advertising | Instant reach | Fast conversions |
-| Mobile Marketing | App & mobile users | Installs & actions |
-| Email Marketing | Retention | Repeat customers |
-| SMS Marketing | Direct reach | High open rates |
-| Social Media Marketing | Engagement | Brand growth |
-| Influencer Marketing | Trust | Niche reach |
-| Affiliate Marketing | Partner sales | Scalable revenue |
-| Content Marketing | Authority | Brand credibility |
+| Service Category | Core Focus | Business Outcome |
+|-----------------|-----------|------------------|
+| SEO | Organic visibility | Long-term traffic growth |
+| Performance Marketing | ROI-driven campaigns | Sales & qualified leads |
+| Paid Advertising | Immediate reach | Fast conversions |
+| Mobile Marketing | App & mobile users | Installs & engagement |
+| Email Marketing | Retention & upsell | Repeat customers |
+| SMS Marketing | Direct communication | High open & response rate |
+| Social Media Marketing | Engagement & branding | Audience growth |
+| Influencer Marketing | Trust & credibility | Niche market reach |
+| Affiliate Marketing | Partner-driven sales | Scalable revenue |
+| Content Marketing | Authority building | Brand credibility |
 | CRO | Conversion optimization | Higher ROI |
-| Analytics & Tracking | Measurement | Smart decisions |
+| Analytics & Tracking | Measurement | Smarter decisions |
 
 ---
 
-## 💰 Paid Advertising Platforms We Work With
+## 💰 Advertising Platforms We Work With
 
-We manage and optimize campaigns across **all major ad platforms**.
+We plan, manage, and optimize campaigns across **all major global ad platforms**.
 
-| Platform | Ad Types | Best For |
-|--------|---------|----------|
-| Google Ads | Search, Display, YouTube, Shopping | High-intent users |
+| Platform | Ad Formats | Best Use Case |
+|--------|------------|---------------|
+| Google Ads | Search, Display, YouTube, Shopping | High-intent customers |
 | Meta Ads | Facebook & Instagram | B2C, D2C, E-Commerce |
-| TikTok Ads | In-feed & video ads | Viral & Gen Z reach |
-| LinkedIn Ads | Sponsored posts, Lead Ads | B2B & Enterprise |
+| TikTok Ads | Short video & in-feed ads | Viral & Gen-Z reach |
+| LinkedIn Ads | Sponsored posts, Lead Ads | B2B & enterprise leads |
 | Twitter (X) Ads | Promoted tweets | Brand awareness |
-| YouTube Ads | Video campaigns | Storytelling |
-| Snapchat Ads | Story & video ads | Young audience |
-| Pinterest Ads | Visual discovery ads | Lifestyle brands |
-| App Store Ads | App install ads | Mobile apps |
+| YouTube Ads | Video storytelling | Reach & recall |
+| Snapchat Ads | Story & video ads | Youth-focused brands |
+| Pinterest Ads | Visual discovery ads | Lifestyle & retail |
+| App Store Ads | App install campaigns | Mobile applications |
 
 ---
 
-## 🎯 Performance Campaign Models (Key Highlight)
+## 🎯 Performance Campaign Models (Our Expertise)
 
 We specialize in **outcome-based marketing**, where success is measured
-by **real business results**, not vanity metrics.
+by **real business actions**, not vanity metrics.
 
 ---
 
 ### 🟢 CPS – Cost Per Sale
-**Meaning:** Pay only when a sale happens.  
-**Best For:** E-Commerce, D2C brands  
-**How CodxByte Works:** Conversion funnels, checkout optimization, ROAS tracking  
+**Definition:** You pay only when a confirmed sale happens.  
+**Best For:** E-Commerce & D2C brands  
+**How ClickPick Media Works:**  
+- Conversion-focused creatives  
+- Funnel & checkout optimization  
+- ROAS-based scaling  
 
 ---
 
 ### 🟢 CPA – Cost Per Action
-**Meaning:** Pay for a defined action (signup, demo, form).  
-**Best For:** SaaS, service businesses  
-**How CodxByte Works:** Action-based targeting, event tracking, optimization  
+**Definition:** You pay for a specific action (signup, form, demo).  
+**Best For:** SaaS & service businesses  
+**How We Work:**  
+- Action-driven targeting  
+- Event tracking & optimization  
+- Quality-based lead filtering  
 
 ---
 
 ### 🟢 CPL – Cost Per Lead
-**Meaning:** Pay for verified leads.  
-**Best For:** Real estate, education, services  
-**How CodxByte Works:** Lead forms, landing pages, quality filtering  
+**Definition:** You pay for verified, high-intent leads.  
+**Best For:** Real estate, education, professional services  
+**How We Work:**  
+- Lead forms & landing pages  
+- Lead quality control  
+- Retargeting warm audiences  
 
 ---
 
 ### 🟢 CPV – Cost Per View
-**Meaning:** Pay when a video is viewed.  
-**Best For:** Brand awareness, launches  
-**How CodxByte Works:** High-engagement creatives, view-quality optimization  
+**Definition:** You pay when a video is viewed.  
+**Best For:** Brand awareness & product launches  
+**How We Work:**  
+- Platform-specific video creatives  
+- View-quality optimization  
+- Audience retargeting  
 
 ---
 
-### 🟢 CPI – Cost Per Install (Mobile Campaign)
-**Meaning:** Pay for each mobile app install.  
-**Best For:** Mobile apps, gaming, utilities  
-**How CodxByte Works:** App creatives, ASO support, install-to-event tracking  
+### 🟢 CPI – Cost Per Install (Mobile Campaigns)
+**Definition:** You pay for each mobile app install.  
+**Best For:** Mobile apps & gaming products  
+**How We Work:**  
+- App-focused ad creatives  
+- Store optimization support (ASO)  
+- Install-to-event tracking  
 
 ---
 
-## 📱 Mobile Marketing (New)
+## 📱 Mobile Marketing Solutions
 
-We run **mobile-first marketing campaigns** designed for smartphone behavior.
+We design **mobile-first campaigns** optimized for smartphone behavior.
 
-| Mobile Campaign Type | Purpose |
-|--------------------|--------|
+| Campaign Type | Objective |
+|--------------|-----------|
 | App Install Campaigns | Drive Android & iOS installs |
 | App Engagement Campaigns | Increase in-app actions |
 | Mobile Video Ads | Short-form video reach |
 | Click-to-Call Ads | Direct customer calls |
-| Location-Based Ads | Hyperlocal targeting |
+| Location-Based Ads | Hyper-local targeting |
 
-**Platforms:** Google, Meta, TikTok, DSPs, App Stores
+**Platforms Used:** Google, Meta, TikTok, DSPs, App Stores
 
 ---
 
-## ✉️ Email Marketing (New)
+## ✉️ Email Marketing
 
-We design **high-conversion email marketing & automation systems**.
+High-conversion **email marketing & automation** for long-term growth.
 
-| Area | What We Do |
-|----|-----------|
-| Campaigns | Promotional & announcement emails |
+| Area | Our Approach |
+|----|-------------|
+| Campaigns | Promotions & announcements |
 | Automation | Drip & behavioral workflows |
 | Segmentation | Audience-based targeting |
 | Optimization | Open rate & CTR improvement |
 
-**Best For:** Retention, upsell, repeat business
+**Best For:** Customer retention & repeat sales
 
 ---
 
-## 📩 SMS Marketing (New)
+## 📩 SMS Marketing
 
-Direct, fast, and high open-rate communication channel.
+Fast, direct, and high-engagement communication channel.
 
 | Feature | Usage |
 |------|------|
-| Promotional SMS | Offers & announcements |
-| Transactional SMS | OTPs, alerts, confirmations |
+| Promotional SMS | Offers & campaigns |
+| Transactional SMS | OTPs, alerts, updates |
 | Automation | Event-based messaging |
 | Personalization | User-level targeting |
 
-**Best For:** Instant reach & engagement
+**Best For:** Instant reach & conversions
 
 ---
 
-## 🧠 DSP Marketing (Demand-Side Platform) – Advanced Advertising
+## 🧠 DSP Marketing (Demand-Side Platform)
 
-We actively work with **DSP platforms** for large-scale, data-driven advertising.
+We work with **DSP platforms** to run large-scale,
+programmatic advertising campaigns using **real-time bidding (RTB)**.
 
-### What is DSP?
-A DSP allows advertisers to **buy ad inventory programmatically**
-across multiple networks using **real-time bidding (RTB)**.
+### How ClickPick Media Uses DSP
 
-### How CodxByte Uses DSP
-
-| Capability | Benefit |
-|----------|---------|
-| Audience Targeting | Behavior, interest & demographics |
-| Multi-Channel Reach | Web, mobile, video, apps |
+| Capability | Business Benefit |
+|----------|-----------------|
+| Advanced Targeting | Interest, behavior & demographics |
+| Multi-Channel Reach | Web, mobile, video & apps |
 | Real-Time Bidding | Cost-efficient impressions |
-| Retargeting | High conversion probability |
-| Brand Safety | Controlled placements |
+| Retargeting | Higher conversion probability |
+| Brand Safety | Controlled ad placements |
 
 **Best For:**  
-- Enterprise brands  
-- Large-scale awareness  
-- Performance + branding mix  
+Enterprise brands, large-scale awareness, and performance branding
 
 ---
 
-## 🔁 Paid & Performance Marketing Workflow
+## 🔁 Our Performance Marketing Workflow
 
-| Step | Action |
-|----|--------|
+| Step | Process |
+|----|---------|
 | 1 | Business & goal understanding |
-| 2 | Platform & campaign model selection |
-| 3 | Audience & competitor research |
-| 4 | Creative & copy strategy |
-| 5 | Campaign setup & launch |
-| 6 | Tracking & analytics setup |
-| 7 | Optimization & testing |
-| 8 | Scaling high-performing campaigns |
+| 2 | Audience & competitor research |
+| 3 | Strategy & funnel planning |
+| 4 | Platform & campaign model selection |
+| 5 | Creative & copy development |
+| 6 | Campaign launch & tracking |
+| 7 | Continuous optimization |
+| 8 | Scaling high-ROI campaigns |
 | 9 | Transparent reporting |
 
 ---
 
-## 📊 Optimization & Reporting Strategy
+## 📊 Optimization & Reporting
 
 | Area | Focus |
 |----|------|
 | Creatives | A/B testing |
-| Audience | Targeting refinement |
-| Budget | Shift to high-ROI ads |
-| Funnel | Reduce drop-offs |
-| Conversions | Improve CPA / CPL / CPS |
+| Targeting | Audience refinement |
+| Budget | ROI-based allocation |
+| Funnel | Drop-off reduction |
+| Conversions | CPA / CPL / CPS improvement |
 
 ---
 
-## ⭐ Why Choose CodxByte for Marketing?
+## ⭐ Why Choose ClickPick Media?
 
-- ROI-first approach  
-- Performance-driven strategies  
+- ROI-first marketing mindset  
+- Performance-driven execution  
 - Multi-platform & DSP expertise  
-- Transparent reporting  
-- Scalable growth models  
+- Transparent reporting & insights  
+- Scalable growth strategies  
 
 ---
 
@@ -201,12 +212,12 @@ across multiple networks using **real-time bidding (RTB)**.
 **50 Days Free Optimization & Support**
 
 Includes:
-- Campaign monitoring
-- Minor optimizations
-- Strategy improvements
-- Technical assistance
+- Campaign monitoring  
+- Minor optimizations  
+- Strategy improvements  
+- Technical assistance  
 
 ---
 
-> 💡 We don’t run ads for clicks.  
-> **We build performance-driven growth systems for brands.**
+> 💡 *We don’t run ads just to spend budgets —  
+> we build **performance-driven growth engines** for brands.*
