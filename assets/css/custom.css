@@ -1,14 +1,455 @@
-.header-4-logo{
-    width: 65px;
+/* Custom CSS for ClickPick Media */
+
+/* Marketing Portfolio Custom Styles */
+/* Enhanced hover effects for service cards */
+.service-list-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
 }
-.brand-grid .brand-item{
-    height: 25vh;
+
+/* Process cards hover effect */
+.why-area [style*="rgba(255,255,255,0.05)"]:hover {
+  background: rgba(255,255,255,0.08) !important;
+  border-color: rgba(255,255,255,0.25) !important;
+  transform: translateY(-3px);
 }
-.brand-grid .brand-item img{
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
+
+/* Tools cards hover effect */
+.features-area .service-list-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
 }
-.feature_service{
-    padding-top: 0px !important;
+
+/* Why choose cards hover */
+.why-area [style*="rgba(255,255,255,0.05)"][style*="border-radius: 8px"]:hover {
+  background: rgba(255,255,255,0.1) !important;
+  border-color: rgba(255,255,255,0.3) !important;
+  transform: translateY(-3px);
+}
+
+/* Smooth transitions */
+.service-list-item,
+.why-area [style*="transition"],
+.features-area .service-list-item {
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+/* Marketing Services Grid Layout - Enhanced Design */
+.marketing-services-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+  position: relative;
+}
+
+.marketing-service-card {
+  border: 1px solid #E8E8E8;
+  background: var(--clr-common-white);
+  padding: 50px 45px;
+  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.marketing-service-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+  transition: left 0.6s ease;
+}
+
+.marketing-service-card:hover::before {
+  left: 100%;
+}
+
+.marketing-service-card::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, rgba(242, 99, 35, 0.02) 0%, rgba(242, 99, 35, 0.05) 100%);
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  pointer-events: none;
+}
+
+.marketing-service-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.12);
+  border-color: #F26323;
+}
+
+.marketing-service-card:hover::after {
+  opacity: 1;
+}
+
+.marketing-service-number {
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 1;
+  background: linear-gradient(135deg, #F26323 0%, #FF8C42 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 20px;
+  font-family: var(--tpl-ff-heading);
+}
+
+.marketing-service-title {
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 1.3;
+  margin-bottom: 20px;
+  color: #171717;
+  font-family: var(--tpl-ff-heading);
+}
+
+.marketing-service-card:hover .marketing-service-title {
+  color: #F26323;
+  transition: color 0.3s ease;
+}
+
+.marketing-service-description {
+  font-size: 16px;
+  line-height: 1.7;
+  color: #626262;
+  margin-bottom: 25px;
+  flex-grow: 1;
+}
+
+.marketing-service-focus {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: auto;
+}
+
+.marketing-service-focus span {
+  font-size: 13px;
+  padding: 6px 14px;
+  background: #F5F5F5;
+  border-radius: 20px;
+  color: #626262;
+  font-weight: 500;
+}
+
+.marketing-service-card:hover .marketing-service-focus span {
+  background: rgba(242, 99, 35, 0.1);
+  color: #F26323;
+}
+
+@media (max-width: 991px) {
+  .marketing-services-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .marketing-service-card {
+    padding: 40px 35px;
+  }
+  
+  .marketing-service-number {
+    font-size: 60px;
+  }
+  
+  .marketing-service-title {
+    font-size: 24px;
+  }
+}
+
+/* Strategy Box Enhanced Design */
+.strategy-box {
+  background: linear-gradient(135deg, #FAFAFA 0%, #FFFFFF 100%);
+  border: 2px solid #E8E8E8;
+  border-radius: 16px;
+  padding: 50px 45px;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.strategy-box::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  right: -50%;
+  width: 200%;
+  height: 200%;
+  background: conic-gradient(from 0deg, transparent, rgba(242, 99, 35, 0.1), transparent 30%);
+  animation: rotate 8s linear infinite;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+@keyframes rotate {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.strategy-box:hover::before {
+  opacity: 1;
+}
+
+.strategy-box:hover {
+  border-color: #F26323;
+  box-shadow: 0 15px 50px rgba(242, 99, 35, 0.15);
+  transform: translateY(-5px);
+}
+
+.strategy-box h3 {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 25px;
+  color: #171717;
+  position: relative;
+  z-index: 1;
+}
+
+.strategy-box .strategy-list {
+  position: relative;
+  z-index: 1;
+}
+
+.strategy-box .strategy-list li {
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 18px;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #626262;
+}
+
+.strategy-box .strategy-list li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 24px;
+  height: 24px;
+  background: #F26323;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+/* Business Type Cards Enhanced Design */
+.business-type-card {
+  background: var(--clr-common-white);
+  border: 2px solid #E8E8E8;
+  border-radius: 16px;
+  padding: 45px 40px;
+  text-align: center;
+  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.business-type-card::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  background: radial-gradient(circle, rgba(242, 99, 35, 0.1) 0%, transparent 70%);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  transition: width 0.6s ease, height 0.6s ease;
+}
+
+.business-type-card:hover::before {
+  width: 400px;
+  height: 400px;
+}
+
+.business-type-card:hover {
+  border-color: #F26323;
+  box-shadow: 0 15px 50px rgba(242, 99, 35, 0.2);
+  transform: scale(1.02);
+}
+
+.business-type-icon-box {
+  width: 70px;
+  height: 70px;
+  background: #F26323;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 25px;
+  font-size: 32px;
+  color: white;
+  transition: all 0.4s ease;
+  position: relative;
+  z-index: 1;
+}
+
+.business-type-card:hover .business-type-icon-box {
+  transform: scale(1.1) rotate(5deg);
+  box-shadow: 0 8px 25px rgba(242, 99, 35, 0.3);
+}
+
+.business-type-card h4 {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: #171717;
+  position: relative;
+  z-index: 1;
+}
+
+.business-type-card:hover h4 {
+  color: #F26323;
+}
+
+.business-type-card ul {
+  text-align: left;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  z-index: 1;
+}
+
+.business-type-card ul li {
+  padding: 10px 0;
+  font-size: 15px;
+  color: #626262;
+  position: relative;
+  padding-left: 25px;
+}
+
+.business-type-card ul li::before {
+  content: '•';
+  position: absolute;
+  left: 0;
+  color: #F26323;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+/* Blog Detail Page Enhanced Design */
+.postbox__thumb {
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 40px;
+}
+
+.postbox__thumb img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.5s ease;
+}
+
+.postbox__thumb:hover img {
+  transform: scale(1.05);
+}
+
+.postbox__content {
+  background: var(--clr-common-white);
+  padding: 0;
+}
+
+.postbox__title {
+  font-size: 42px;
+  line-height: 1.3;
+  margin-bottom: 25px;
+  font-weight: 700;
+  color: #171717;
+}
+
+@media (max-width: 991px) {
+  .postbox__title {
+    font-size: 32px;
+  }
+}
+
+@media (max-width: 767px) {
+  .postbox__title {
+    font-size: 28px;
+  }
+}
+
+.postbox__meta {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #E8E8E8;
+}
+
+.postbox__text {
+  font-size: 18px;
+  line-height: 1.8;
+  color: #626262;
+  margin-bottom: 30px;
+}
+
+.postbox__text p {
+  margin-bottom: 25px;
+}
+
+.postbox__text h2,
+.postbox__text h3,
+.postbox__text h4 {
+  color: #171717;
+  font-weight: 600;
+  margin-top: 35px;
+  margin-bottom: 20px;
+}
+
+.postbox__text h2 {
+  font-size: 32px;
+}
+
+.postbox__text h3 {
+  font-size: 26px;
+}
+
+.postbox__text h4 {
+  font-size: 22px;
+}
+
+.postbox__text ul,
+.postbox__text ol {
+  margin: 25px 0;
+  padding-left: 30px;
+}
+
+.postbox__text ul li,
+.postbox__text ol li {
+  margin-bottom: 12px;
+  line-height: 1.7;
+}
+
+.postbox__text ul li::marker {
+  color: #F26323;
+}
+
+.postbox__text blockquote {
+  border-left: 4px solid #F26323;
+  padding-left: 30px;
+  margin: 30px 0;
+  font-style: italic;
+  color: #626262;
+  font-size: 20px;
+}
+
+.postbox__item {
+  margin-bottom: 60px;
 }
